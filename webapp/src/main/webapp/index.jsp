@@ -2,8 +2,8 @@
 <h2> CI/CD  pipelines using GIT, jenkins, Ansible, Docker, Kubernetes on AWS EC2 Instance </h2>
 <h2> Bye </h2>
 <h2> Deploying on VM </h2>
-<h2> QWERR </h2>
+<h2> CI/CD  pipelines using GIT, jenkins, Ansible, Docker, Kubernetes on AWS EC2 Instance </h2>
 <h2> Bye </h2>
 <h2> Deploying on VM </h2>
-<h2> QWERR </h2>
+
 
