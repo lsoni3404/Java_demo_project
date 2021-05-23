@@ -3,4 +3,7 @@
 <h2> Bye </h2>
 <h2> Deploying on VM </h2>
 <h2> QWERR </h2>
+<h2> Bye </h2>
+<h2> Deploying on VM </h2>
+<h2> QWERR </h2>
 
